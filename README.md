@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Faith</h1>
 <h3 align="center">A passionate frontend developer open to collaborations and meeting new people</h3>
 <img align=‘right’ width=‘400’ src='https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif'/>
