@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- ⚡ Fun fact **I love trying out new food and Travelling**
+- ⚡ Fun fact **I am a foodie😜 and I love travelling a lot😍. I write also including technical articles..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
