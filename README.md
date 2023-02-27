@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faith</h1>
 <h3 align="center">A passionate frontend developer open to collaborations and meeting new people</h3>
-<img align=‘right’ width=‘100%’ src='https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif'/>
+<img align=‘right’ width=‘1000’ src='https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="faithyyyyy" /> </p>
 
