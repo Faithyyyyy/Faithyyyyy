@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- ⚡ Fun fact **I am a foodie😜 and I love travelling a lot😍. I write also including technical articles..**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/faitthtoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faitthtoby" height="30" width="40" /></a>
