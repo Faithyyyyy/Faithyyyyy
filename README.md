@@ -1,7 +1,7 @@
 ![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+ENGINEER;TECHNICAL+WRITER)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/faitholoninayin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
@@ -19,7 +19,7 @@
 
 🤟I love traveling, listening to music , reading, and networking <br> 
 
-🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles <br>
+🔭 I’m currently working on different projects, Open to Frontend Engineer roles and<br>
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
