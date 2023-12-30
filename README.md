@@ -15,11 +15,13 @@
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+👋 Hello and welcome to my GitHub profile! My name is Faith and I am a Frontend developer, Technical writer and open source enthusiast.
+
 💬 Ask me about : Technical writing, frontend development <br> 
 
 🤟I love traveling, listening to music , reading, and networking <br> 
 
-🔭 I’m currently working on different projects, Open to Frontend Engineer roles and<br>
+🔭 I’m currently working on different projects, Open to Frontend Engineer roles<br>
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
